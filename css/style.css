@@ -179,7 +179,12 @@ body {
 	width: 50%;
 }
 
+
 /* end */
+
+
+/* WHO AM I PAGE */
+.
 
 /* Responsive containers */
 
@@ -187,19 +192,31 @@ body {
 	.who {
 		float: none;
 		width: 100%;
-}
+	}
 
 	.my-work {
 		float: none;
 		width: 100%;
-}
+	}
+
 	.what-i-do {
 		float: none;
 		width: 100%;
-}
+	}
 
 	.contact {
 		float: none;
 		width: 100%;
-}
+	}
+
+	.description {
+		float: none;
+		width: 100%;
+	}
+
+	.picture {
+		float: none;
+		width: 100%;
+	}
+
 }
