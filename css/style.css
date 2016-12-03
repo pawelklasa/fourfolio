@@ -1,5 +1,5 @@
 body {
-	background-color: #588C7E;
+	background-color: #f1f2ef;
 	margin-top: 20px;
 	font-family: 'PT Sans Narrow', sans-serif;
 }
@@ -14,7 +14,7 @@ body {
 
 .fa-cloud {
     font-size: 50px;
-    color: #0968AD;
+    color: #1954a1;
 }
 
 .fa-cloud:hover {
@@ -29,7 +29,7 @@ body {
 
 .who {
 	float: left;
-	background-color: #F2E394;
+	background-color: #ffd46d;
 	height: 250px;
 	width: 50%;
 	margin: 0 auto;
@@ -37,7 +37,7 @@ body {
 
 .my-work {
 	float: right;
-	background-color: #F2AE72;
+	background-color: #fa6a68;
 	height: 250px;
 	width: 50%;
 	margin: 0 auto;
@@ -95,7 +95,7 @@ body {
 
 .contact {
 	float: right;
-	background-color: #8C4646;
+	background-color: #1954a1;
 	height: 250px;
 	width: 50%;
 	margin: 0 auto;
